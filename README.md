@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 I'm a passionate software engineer with over 10 years of hands-on experience in the e-commerce domain, specializing in marketplaces, SaaS solutions, connectors, and more.
 
 ## 🚀 Expertise
 
 - **E-commerce Domains:** Extensive experience in various facets of e-commerce.
 - **Marketplace Solutions:** Building and optimizing marketplace platforms.
-- **SaaS Applications:** Creating and scaling Software as a Service solutions.
+- **SaaS Applications:** Creating and scaling Software as a Service solution.
 - **Connectors:** Developing integrations and connectors for seamless operations.
 
 ## 💻 Tech Stack
@@ -33,6 +34,8 @@ I'm a passionate software engineer with over 10 years of hands-on experience in 
 ## 🌱 Open Source Contributions
 
 I actively contribute to open-source projects, focusing on E-Commerce and improving developer communities.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vivek-webkul)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Reach Me
 
