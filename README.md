@@ -39,8 +39,8 @@ I actively contribute to open-source projects, focusing on E-Commerce and improv
 
 ## 📫 Reach Me
 
-Feel free to connect with me via [Twitter Follow](https://twitter.com/@Vivek88264057).
+[Twitter Follow](https://twitter.com/@Vivek88264057).
 
-Let's connect, collaborate, and build amazing things together! ✨
+Let's collaborate and build amazing things together! ✨
 
 [![An image of @vivekwebkul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivekwebkul)](https://holopin.io/@vivekwebkul)
