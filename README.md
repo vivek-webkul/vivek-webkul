@@ -1,6 +1,6 @@
 ### Hi there, I'm Vivek Sharma! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-webkul&label=Profile%20views&color=blueviolet&style=flat" alt="vivek-webkul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-webkul&abbreviated=true&label=Profile%20views&color=blueviolet&style=flat" alt="vivek-webkul" /> </p>
 
 <!--
 **vivek-webkul/vivek-webkul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
